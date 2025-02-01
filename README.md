@@ -1,6 +1,6 @@
 ## 🚀 Hi there, I'm Harshal Rasoda! 👋  
 
-### **App Developer | Kotlin & Jetpack Compose | APIs Enthusiast |C++ & DSA **  
+### App Developer | Kotlin & Jetpack Compose | APIs Enthusiast |C++ & DSA 
 
 I’m a passionate **App Developer** focused on building polished, high-performance mobile applications using **Kotlin, Jetpack Compose, and modern Android development tools**.  
 
