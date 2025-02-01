@@ -57,7 +57,7 @@ A **C++ project** for managing books and library records efficiently.
 ## **📊 GitHub Stats**  
 
 ![Harshal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshal5112&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal5112&layout=compact&theme=radical)  
+ 
 
 ---
 
