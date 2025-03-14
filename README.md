@@ -4,18 +4,24 @@
 
 I’m a passionate **App Developer** focused on building polished, high-performance mobile applications using **Kotlin, Jetpack Compose, and modern Android development tools**.  
 
-📍 **Currently working on:** A **YouTube Shorts Viewer App** with advanced features.  
+📍 **Currently working on:** A **YT Shorts App** with advanced features.  
 🎯 **Tech Stack:** Kotlin | Jetpack Compose | Room Database | APIs | SQL | DSA  
 
 ---
 
 ## **🛠️ Projects**  
 
-### **📌 YouTube Shorts Viewer App** (Ongoing)  
+### **📌 YT Shorts App** (Ongoing)  
 A feature-rich app allowing users to browse YouTube Shorts with an intuitive experience.  
 ✅ **Tech:** Kotlin, Jetpack Compose, YouTube API, Clean Architecture  
 ✅ **Focus:** Smooth UI/UX, fast performance, and seamless video playback.  
-🔗 **GitHub:** [YouTube Shorts Viewer Repo](#) (Coming Soon)  
+🔗 **GitHub:** [YT Shorts  Repo](#) (Coming Soon)  
+
+### **📌 Expense Tracker App**
+An app to track expenses and manage budgets efficiently with a clean and user-friendly interface.
+✅ **Tech**: Kotlin, Jetpack Compose, Room Database, MVVM
+✅ **Features:** Detailed Spending Insights, Add/delete expenses, view spending trends, category-wise filtering.
+🔗 **GitHub:** [Expense Tracker App Repo](#) (Coming Soon) 
 
 ### **📌 DSA Questioning App**  
 An interactive app for coders to **learn and practice Data Structures & Algorithms** with curated questions.  
@@ -23,11 +29,6 @@ An interactive app for coders to **learn and practice Data Structures & Algorith
 ✅ **Features:** Difficulty-based filters, offline storage, progress tracking.  
 🔗 **GitHub:** [DSA Questioning App Repo](#)  (Coming Soon) 
 
-### **📌 E-Commerce Filtering App**  
-A smart price-tracking app that helps users find the **best deals** based on real-time product data.  
-✅ **Tech:** Kotlin, REST APIs, Live Product Tracking  
-✅ **Features:** Price comparison, product quality ranking, budget filters.  
-🔗 **GitHub:** [E-Commerce Filtering App Repo](#)  (Coming Soon) 
 
 ### **📌 Library Management System (C++)**  
 A **C++ project** for managing books and library records efficiently.  
