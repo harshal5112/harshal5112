@@ -18,9 +18,9 @@ A feature-rich app allowing users to browse YouTube Shorts with an intuitive exp
 🔗 **GitHub:** [YT Shorts  Repo](#) (Coming Soon)  
 
 ### **📌 Expense Tracker App**
-An app to track expenses and manage budgets efficiently with a clean and user-friendly interface.
-✅ **Tech**: Kotlin, Jetpack Compose, Room Database, MVVM
-✅ **Features:** Detailed Spending Insights, Add/delete expenses, view spending trends, category-wise filtering.
+An app to track expenses and manage budgets efficiently with a clean and user-friendly interface. 
+✅ **Tech**: Kotlin, Jetpack Compose, Room Database, MVVM 
+✅ **Features:** Detailed Spending Insights, Add/delete expenses, view spending trends, category-wise filtering. 
 🔗 **GitHub:** [Expense Tracker App Repo](#) (Coming Soon) 
 
 ### **📌 DSA Questioning App**  
